@@ -2,7 +2,7 @@
 By Manas Kolaskar
 
 
-![Logo](https://logowik.com/content/uploads/images/python.jpg)
+![Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
 ## My Documentation
 
 [Python reference notes](https://mansweb.notion.site/Python-ab7b6da3ea8d43b58930fb83e7a5d166?pvs=74)
